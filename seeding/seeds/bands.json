@@ -1,0 +1,37 @@
+[{
+	"_id": "ab702fc4-467d-4cc6-8ba9-e1d283bc4a33",
+	"name": "AC/DC",
+	"recorder": "72a2581d-3680-4493-ab82-c8238f20d6be"
+}, {
+	"_id": "32398b1e-53d8-4c0a-99c0-2c7567b900e7",
+	"name": "Beatles",
+	"recorder": "7f4f3eff-f784-48c5-be04-acf739f810b7"
+}, {
+	"_id": "a2907b3e-f598-4dfe-bce2-f3a3832466c2",
+	"name": "KISS",
+	"recorder": "5defd102-5d45-4141-91b9-e771145f2e80"
+}, {
+	"_id": "93487e5c-e797-4f12-b146-289ca4ae0416",
+	"name": "Lynyrd Skynyrd",
+	"recorder": "7c66b6a2-6e17-4553-ab55-e5cf13e25aa2"
+}, {
+	"_id": "8dbab583-ac65-448b-a625-79753aa1c72f",
+	"name": "Motorhead",
+	"recorder": "37c43ae6-2938-40d6-99eb-b38a84323156"
+}, {
+	"_id": "3877d759-9d2b-4731-83a0-f82b9012b856",
+	"name": "Pink Floyd",
+	"recorder": "128f122c-f24f-481e-b95c-9b48df057686"
+},  {
+	"_id": "89a1052f-09dd-4586-add5-211e175604b2",
+	"name": "Rush",
+	"recorder": "28f122c-f24f-481e-b95c-9b48df057686"
+}, {
+	"_id": "be5654c0-cae4-49f8-bfbf-a09bc6a0c20a",
+	"name": "Tenacious D",
+	"recorder": "7c66b6a2-6e17-4553-ab55-e5cf13e25aa2"
+}, {
+	"_id": "1aeb5726-2f95-4db9-8dc1-707f54dbb467",
+	"name": "ZZ Top",
+	"recorder": "72a2581d-3680-4493-ab82-c8238f20d6be"
+}]
